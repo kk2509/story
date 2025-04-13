@@ -1,0 +1,1 @@
+i have used the code chapter3.txt command to open this file directly from the git bash terminal
